@@ -1,0 +1,31 @@
+.maine {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+
+}
+
+
+.maine {
+    border: 7px solid rgb(0, 0, 0);
+    width: 800px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: radial-gradient(circle at center,
+            rgb(247, 199, 9),
+            blueviolet,
+            blue,
+            violet,
+            skyblue,
+            white);
+    padding-top: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
