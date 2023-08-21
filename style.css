@@ -24,14 +24,7 @@
     margin-bottom: 50px;
 }
 
-/*.main {
-    display: flex;
-    justify-content: flex-end;
-    align-self: center;
-    align-self: baseline;
-    flex-direction: column-reverse;
-}
-*/
+
 .main {
     border: 10px double rgb(3, 231, 3);
     width: 300px;
