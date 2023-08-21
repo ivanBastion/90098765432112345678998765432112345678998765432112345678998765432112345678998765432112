@@ -6,7 +6,7 @@
 }
 
 
-.main {
+.maine {
     border: 7px solid rgb(0, 0, 0);
     width: 800px;
     height: 300px;
@@ -24,8 +24,28 @@
     margin-bottom: 50px;
 }
 
-.main {
+/*.main {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-self: center;
+    align-self: baseline;
+    flex-direction: column-reverse;
+}
+*/
+.main {
+    border: 10px double rgb(3, 231, 3);
+    width: 300px;
+    color: rgb(0, 0, 0);
+    font-family: "Courier New", Courier, monospace;
+    text-shadow: 8px 8px 9px rgb(255, 255, 255);
+    position: relative;
+}
+
+.you {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+    gap: 25px;
 }
